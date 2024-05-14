@@ -1,0 +1,36 @@
+Trattoria Rahova, Albert Fabriccio, Soseaua Alexandria, 021 9201 3821, trattoria.rahova@gmail.com
+14, 23, 3.8
+7
+Sunca, 800, gram, 0.15
+Patrunjel, 300, gram, 0.1
+Rosii, 450, gram, 0.25
+Apa plata, 30, litru, 6
+Paine, 550, gram, 0.02
+Sos iute, 950, mililitru, 0.1
+Branza, 200, gram, 0.35
+2
+68, Pizza Giovanne, 2
+Paine, 250
+Branza, 200
+25, 2
+pufos
+subtire
+30
+122, Pizza Capricio, 5
+Sunca, 200
+Patrunjel, 60
+Rosii, 150
+Paine, 330
+Branza, 125
+40, 1
+normal
+45
+2
+88, Ceva cu sunca, 2
+Sunca, 50
+Paine, 20
+10
+999, Sticla de apa plata, 1
+Apa plata, 1
+19
+34

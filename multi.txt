@@ -1,0 +1,40 @@
+
+
+COMANDA: N/A
+
+ID: 70 | Denumire: Pizza Giovanne | Nr materii prime: 2
+RETETAR:
+  Denumire: Paine | Cantitate disponibila: 260 | Unitate de masura: gram | Pret per unitate: 0.02 [CANTITATE NECESARA: 250G ]
+  Denumire: Branza | Cantitate disponibila: 0 | Unitate de masura: gram | Pret per unitate: 0.35 [CANTITATE NECESARA: 200G ]
+Adaos: 25%
+Nr optiuni blat: 2 -> PUFOS  SUBTIRE  
+Marime pizza: 30cm
+
+ID: 90 | Denumire: Ceva cu sunca | Nr materii prime: 2
+RETETAR:
+  Denumire: Sunca | Cantitate disponibila: 700 | Unitate de masura: gram | Pret per unitate: 0.15 [CANTITATE NECESARA: 50G ]
+  Denumire: Paine | Cantitate disponibila: 260 | Unitate de masura: gram | Pret per unitate: 0.02 [CANTITATE NECESARA: 20G ]
+Adaos: 10%
+ID: 1001 | Denumire: Sticla de apa plata | Nr materii prime: 1
+RETETAR:
+  Denumire: Apa plata | Cantitate disponibila: 27 | Unitate de masura: litru | Pret per unitate: 6 [CANTITATE NECESARA: 1L ]
+Adaos: 19%
+
+
+COMANDA: N/A
+
+ID: 124 | Denumire: Pizza Capricio | Nr materii prime: 5
+RETETAR:
+  Denumire: Sunca | Cantitate disponibila: 600 | Unitate de masura: gram | Pret per unitate: 0.15 [CANTITATE NECESARA: 200G ]
+  Denumire: Patrunjel | Cantitate disponibila: 240 | Unitate de masura: gram | Pret per unitate: 0.1 [CANTITATE NECESARA: 60G ]
+  Denumire: Rosii | Cantitate disponibila: 300 | Unitate de masura: gram | Pret per unitate: 0.25 [CANTITATE NECESARA: 150G ]
+  Denumire: Paine | Cantitate disponibila: 220 | Unitate de masura: gram | Pret per unitate: 0.02 [CANTITATE NECESARA: 330G ]
+  Denumire: Branza | Cantitate disponibila: 75 | Unitate de masura: gram | Pret per unitate: 0.35 [CANTITATE NECESARA: 125G ]
+Adaos: 40%
+Nr optiuni blat: 1 -> NORMAL  
+Marime pizza: 45cm
+
+ID: 1001 | Denumire: Sticla de apa plata | Nr materii prime: 1
+RETETAR:
+  Denumire: Apa plata | Cantitate disponibila: 27 | Unitate de masura: litru | Pret per unitate: 6 [CANTITATE NECESARA: 1L ]
+Adaos: 15%
