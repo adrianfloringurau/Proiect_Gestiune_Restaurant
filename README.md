@@ -1,0 +1,6 @@
+Bine ai venit în repository-ul meu!
+
+Acesta este un proiect C++, realizat în timpul facultății, ce are ca scop simularea unui comportament de client al unui restaurant, pe cât se poate de mult.
+Toate acestea se întâmplă sub forma unei aplicații consolă, întrucât scopul proiectul a fost realizarea logicii acestei simulări, nu și a unei interfețe grafice.
+Proiectul are dimensiuni cuprinzătoare, este complex prin următoarele aspecte: există mai multe unități de măsură ale materiilor prime; prețurile produselor sunt calculate dinamic, în funcție de prețul și cantitatea necesară din fiecare produs inclus în rețetă, stocul de materii prime ale restaurantului este actualizat în timp real (adică dacă plasez o comandă, s-ar putea ca la următoarea să nu mai existe suficiente resurse pentru satisfacea acesteia), există mai multe opțini pentru alegerea blatului în cazul produselor de tip pizza, se pot realiza rapoarte de mai multe tipuri, se pot încărca și descărca date privitoare la restaurant, materii prime și produse din/în fișiere text.
+Interacțiunea clientului cu aplicația se realizează la nivelul unor comenzi în consolă, ce dau senzația utilizării unui dispozitiv cu sistem de operare din familia Unix.
